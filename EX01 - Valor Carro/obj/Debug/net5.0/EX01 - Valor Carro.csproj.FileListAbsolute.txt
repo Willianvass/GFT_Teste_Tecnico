@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\bin\Debug\net5.0\EX01 - Valor Carro.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\refint\EX01 - Valor Carro.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\EX01 - Valor Carro.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX01 - Valor Carro\obj\Debug\net5.0\ref\EX01 - Valor Carro.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EX01 - Valor Carro/1.0.0": {
+        "runtime": {
+          "EX01 - Valor Carro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX01 - Valor Carro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
