@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\bin\Debug\net5.0\EX03 Candidatos.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\refint\EX03 Candidatos.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\EX03 Candidatos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\GFT Teste Tecnico\EX03 Candidatos\obj\Debug\net5.0\ref\EX03 Candidatos.dll
